@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/btn_ma"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/ic_crop_free_hui_24dp"
+        />
+
+    <EditText
+        android:id="@+id/edit_text"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="45dp"
+        android:layout_height="50dp"
+        android:background="@drawable/ic_reorder_siaoxi_24dp"
+        />
+
+</LinearLayout>
